@@ -1,0 +1,6 @@
+{
+  "name": "יום הולדת שמח למיכל | מסע אישי ורומנטי",
+  "description": "מיכל, הלוואי שיכולת לראות את עצמך דרך העיניים שלי — מסע אינטראקטיבי אישי ורומנטי ליום ההולדת",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
